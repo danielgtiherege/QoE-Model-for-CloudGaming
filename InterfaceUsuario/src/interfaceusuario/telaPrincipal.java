@@ -173,31 +173,6 @@ public class telaPrincipal extends javax.swing.JFrame {
                 }
             });
             
-            //ALT+F12 Muda entre 1 e 3 minutos
-            iconeLateral.getInputMap(JComponent.WHEN_IN_FOCUSED_WINDOW).put(KeyStroke.getKeyStroke(KeyEvent.VK_F12, InputEvent.ALT_DOWN_MASK), "mudaOsMinutos");
-            iconeLateral.getActionMap().put("mudaOsMinutos", new AbstractAction() {
-                @Override
-                public void actionPerformed(ActionEvent e) {
-                    if(alteraMinutos == 186000){
-                        alteraMinutos = 66000;
-                        jTextArea1.setText("Você pode jogar quantas vezes quiser, em \n" +
-                                            "partidas de 1 minuto. Sempre classifique\n" +
-                                            "a Qualidade de Experiência ao terminar\n" +
-                                            "a partida. \n" +
-                                            "NAO FECHE O JOGO, ELE VAI SE FECHAR!");
-                    }else{
-                        alteraMinutos = 186000;
-                        jTextArea1.setText("Você pode jogar quantas vezes quiser, em \n" +
-                                            "partidas de 3 minutos. Sempre classifique\n" +
-                                            "a Qualidade de Experiência ao terminar\n" +
-                                            "a partida. \n" +
-                                            "NAO FECHE O JOGO, ELE VAI SE FECHAR!");
-                    }
-                }
-            });
-            
-            
-            
         } catch (IOException ex) {
             Logger.getLogger(telaPrincipal.class.getName()).log(Level.SEVERE, null, ex);
         }
