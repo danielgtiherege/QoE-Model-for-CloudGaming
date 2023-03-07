@@ -1,6 +1,6 @@
 # Português
 # Dados coletados para:
-# MODELAGEM DE QOE PARA JOGOS EM NUVEM
+# A Stacking Learning-Based QoE Model for Cloud Gaming
 
 >Este repositório contem os programas criados para coletar os dados na máquina do cliente e na máquina do servidor e
 os dados coletados em si. Todos os códigos foram desenvolvidos
@@ -12,7 +12,7 @@ por Daniel Henriques C. M. Soares.
 
 # English
 # Data collected and programs used to:
-# Machine Learning-based QoE Model for Cloud Gaming
+# A Stacking Learning-Based QoE Model for Cloud Gaming
 
 >This repository contains the programs created to collect data on the client machine and on the server machine and
 the collected data itself. All codes were developed
