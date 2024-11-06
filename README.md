@@ -1,22 +1,10 @@
-# Português
-# Dados coletados para:
-# A Stacking Learning-Based QoE Model for Cloud Gaming
+# All data were collected in accordance with the recommendations outlined in the ITU-T P.809 document. Our focus is exclusively on the performance of cloud gaming and user Quality of Experience (QoE); aspects such as immersion and game content were not evaluated.
 
->Este repositório contem os programas criados para coletar os dados na máquina do cliente e na máquina do servidor e
-os dados coletados em si. Todos os códigos foram desenvolvidos
-por Daniel Henriques C. M. Soares.
+>This repository contains data collected from the experiments of Daniel Henriques C. M. Soares.
+>These data have been used in the following studies to date(06/11/24):
 
->A máquina servidor deve ser um Windows 7, 8 ou 10 com placa de vídeo GTX 650 ou superior com GeForce Experience instalado, o computador do cliente deve ser uma distribuição linux e deve ter a placa de rede com o nome enp4s0 para que as interferências de rede gerem efeito.
-
-
-
-# English
-# Data collected and programs used to:
-# A Stacking Learning-Based QoE Model for Cloud Gaming
-
->This repository contains the programs created to collect data on the client machine and on the server machine and
-the collected data itself. All codes were developed
-by Daniel Henriques C. M. Soares.
-
->The server machine must be a Windows 7, 8 or 10 with a GTX 650 video card or higher with GeForce Experience installed, 
-the client computer must be a linux distribution and must have the network card named enp4s0 so that interference from network take effect.
+>Enhancing Cloud Gaming QoE Estimation by Stacking Learning - Journal of Network and Systems Management - 10.1007/s10922-024-09836-6
+>A Stacking Learning-Based QoE Model for Cloud Gaming - NOMS 2023-2023 IEEE/IFIP Network Operations and Management Symposium - 10.1109/NOMS56928.2023.10154380
+>Transfer Learning-Based QoE Estimation For Different Cloud Gaming Contexts - 2023 IEEE 9th International Conference on Network Softwarization (NetSoft) - 10.1109/NetSoft57336.2023.10175441
+>A Human-in-the-Loop Based ML Framework to Estimate User’s QoE on Cloud Gaming Using Active Learning - 2024 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit) - 10.1109/EuCNC/6GSummit60053.2024.10597003
+>QoE Estimation Across Different Cloud Gaming Services Using Transfer Learning - IEEE Transactions on Network and Service Management - 10.1109/TNSM.2024.3451300
