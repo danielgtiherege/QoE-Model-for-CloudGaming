@@ -12,3 +12,40 @@
 >A Human-in-the-Loop Based ML Framework to Estimate User’s QoE on Cloud Gaming Using Active Learning - 2024 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit) - 10.1109/EuCNC/6GSummit60053.2024.10597003
 
 >QoE Estimation Across Different Cloud Gaming Services Using Transfer Learning - IEEE Transactions on Network and Service Management - 10.1109/TNSM.2024.3451300
+
+
+#Dataset Description:
+
+>QoE - Label of QoE from 0 to 6, these being: extremely bad, very bad, bad, fair, good, excellent, and ideal.
+
+>UsoCpu, UsoRam,UsoGpu and UsoVram were used to garantee that the hardware was not limiting the experiment.
+
+>DelayComandos, JitterComandos and PerdaComandos are Input Delay, Jitter and Loss respectively.
+
+>DelayVideo, JitterVideo and PerdaVideo are Video Delay, Jitter and Loss respectively.
+
+>Jogo - Game played
+
+>TerminoPartida - Time(HH.MM) of end of playtime
+
+>JogariaNovamente - Would you play again like that? YES (SIM) or NO(NAO)
+
+>EstadoEspirito - Are you happy? Happy (Feliz), Indiferent(Indiferente) and Sad (Triste)
+
+>IDADE - Age
+
+>GENERO - Gender
+
+>CURSO - level of educational attainment
+
+>HORASJOGASEMANA - Number of hours of videogames played at home in a weeek
+
+>MOUSEMANETEVR - What hardware is used to play at home. "Nenhum" means no one.
+
+>RESOLUCAO - Resolution of the monitor/tv used at home (When they dont know, we used -1080p, or less than 1080p)
+
+>FREQUENCIA - Refresh rate of the monitor used to play at home (When they dont know, we used 60)
+
+>QUALJAJOGOU	- if yhey played any game of the experiment before.
+
+>TEMPOQUALJAJOGOU - if the last question was anwsered, for how long in hours?
