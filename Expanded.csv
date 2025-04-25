@@ -1710,7 +1710,7 @@ Player 44,0,,,,,,40,40,30,30,20.0,20.0,Rise of Tomb Raider,19.28,NAO,Indiferente
 Player 1,3,3.0,80.0,45.0,22.0,20.0,0,100,0,25,0.0,3.0,Half-Life 2,17.28,,,,,,,,,,,
 Player 3,3,3.0,55.0,16.0,35.0,30.0,0,75,0,25,0.0,2.5,Half-Life 2,17.38,,,,,,,,,,,
 Player 3,4,3.0,25.0,16.0,20.0,15.0,0,25,0,15,0.0,3.0,FEAR,21.16,,,,,,,,,,,
-lucasPlayer 5,4,3.0,40.0,15.0,10.0,10.0,50,125,15,25,0.5,0.5,Half-Life 2,,SIM,Indiferente,20.0,M,Sistemas de Informação,2.0,1080p,75.0,Nenhum,0.0,Mouse
+Player 5,4,3.0,40.0,15.0,10.0,10.0,50,125,15,25,0.5,0.5,Half-Life 2,,SIM,Indiferente,20.0,M,Sistemas de Informação,2.0,1080p,75.0,Nenhum,0.0,Mouse
 Player 44,6,,,,,,40,30,40,30,5.0,0.0,Rise of Tomb Raider,21.35,SIM,Indiferente,,,,,,,,,
 Player 44,6,,,,,,0,2,0,15,0.0,1.5,Rise of Tomb Raider,14.14,SIM,Indiferente,,,,,,,,,
 Player 74,0,,,,,,0,30,0,30,0.0,20.0,Rise of Tomb Raider,14.25,NAO,Indiferente,,,,,,,,,
@@ -1728,7 +1728,7 @@ Player 5,4,,,,,,2,40,40,0,0.0,20.0,Rise of Tomb Raider,15.33,SIM,Indiferente,,,,
 Player 1,6,,,,,,2,20,5,5,2.5,2.5,Spelunky,17.09,SIM,Indiferente,,,,,,,,,
 Player 3,5,3.0,39.0,15.0,9.0,9.0,125,50,20,25,0.0,0.0,Half-Life 2,15.16,,,,,,,,,,,
 Player 1,5,3.0,26.0,19.0,25.0,18.0,25,0,15,0,1.5,0.0,FEAR,17.47,,,,,,,,,,,
-Player 1 neiva,5,3.0,39.0,13.0,10.0,10.0,0,100,0,25,0.0,0.5,Half-Life 2,19.3,SIM,Indiferente,23.0,M,Sistemas de Informação,-1.0,-1080p,60.0,Nenhum,0.0,Mouse
+Player 1,5,3.0,39.0,13.0,10.0,10.0,0,100,0,25,0.0,0.5,Half-Life 2,19.3,SIM,Indiferente,23.0,M,Sistemas de Informação,-1.0,-1080p,60.0,Nenhum,0.0,Mouse
 Player 1,3,3.0,37.0,14.0,8.0,9.0,50,50,20,20,3.0,3.0,Half-Life 2,15.13,,,,,,,,,,,
 Player 81,1,,,,,,0,25,0,15,0.0,5.0,Spelunky,13.37,NAO,Indiferente,,,,,,,,,
 Player 3,2,3.0,34.0,14.0,8.0,8.0,75,0,5,0,0.5,0.0,Half-Life 2,19.24,,,,,,,,,,,
@@ -2806,7 +2806,7 @@ Player 1,1,3.0,39.0,15.0,8.0,9.0,0,100,0,5,0.0,1.5,Half-Life 2,13.43,,,,,,,,,,,
 Player 5,4,3.0,54.0,17.0,26.0,23.0,50,0,15,0,1.0,0.0,Half-Life 2,13.27,,,,,,,,,,,
 Player 1,0,,,,,,30,30,5,0,1.5,1.5,Spelunky,16.42,NAO,Indiferente,,,,,,,,,
 Player 1,2,3.0,62.0,22.0,8.0,8.0,125,50,20,10,0.5,0.5,Spelunky,22.54,,,,,,,,,,,
-Player 1 neiva,4,4.0,21.0,11.0,5.0,7.0,0,100,0,5,0.0,1.5,Half-Life 2,19.1,SIM,Indiferente,23.0,M,Sistemas de Informação,-1.0,-1080p,60.0,Nenhum,0.0,Mouse
+Player 1,4,4.0,21.0,11.0,5.0,7.0,0,100,0,5,0.0,1.5,Half-Life 2,19.1,SIM,Indiferente,23.0,M,Sistemas de Informação,-1.0,-1080p,60.0,Nenhum,0.0,Mouse
 Player 1,5,3.0,47.0,14.0,36.0,31.0,50,25,20,0,0.5,0.5,Half-Life 2,17.13,,,,,,,,,,,
 Player 1,1,3.0,41.0,15.0,25.0,22.0,0,150,0,10,0.0,1.5,Half-Life 2,18.08,,,,,,,,,,,
 Player 1,3,3.0,39.0,15.0,9.0,9.0,0,50,0,10,0.0,2.5,Half-Life 2,14.06,,,,,,,,,,,
