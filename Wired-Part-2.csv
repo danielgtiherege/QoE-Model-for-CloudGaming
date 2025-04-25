@@ -9,12 +9,12 @@ Player 10,4,4,1,10,0,4,0,150,0,5,0.0,0.5,Half-Life 2,NAO,Indiferente,14.6,23,M,S
 Player 10,5,3,0,10,0,4,125,75,25,0,2.5,2.5,Half-Life 2,SIM,Feliz,15.7,23,M,Sistemas de Informação,0,1080p,60,Nenhum,0,Nenhum
 Player 10,4,3,37,14,9,9,125,0,10,0,3.0,0.0,Half-Life 2,NAO,Indiferente,15.8,23,M,Sistemas de Informação,0,1080p,60,Nenhum,0,Nenhum
 Player 3,0,3,0,9,0,4,150,0,25,0,1.0,0.0,Half-Life 2,NAO,Feliz,19.0,29,M,Doutorado Física,8,1080p,144,Nenhum,0,Mouse
-Player 1 neiva,4,4,21,11,5,7,0,100,0,5,0.0,1.5,Half-Life 2,SIM,Indiferente,19.1,23,M,Sistemas de Informação,-1,-1080p,60,Nenhum,0,Mouse
-Player 1 neiva,5,3,39,13,10,10,0,100,0,25,0.0,0.5,Half-Life 2,SIM,Indiferente,19.3,23,M,Sistemas de Informação,-1,-1080p,60,Nenhum,0,Mouse
+Player 1,4,4,21,11,5,7,0,100,0,5,0.0,1.5,Half-Life 2,SIM,Indiferente,19.1,23,M,Sistemas de Informação,-1,-1080p,60,Nenhum,0,Mouse
+Player 1,5,3,39,13,10,10,0,100,0,25,0.0,0.5,Half-Life 2,SIM,Indiferente,19.3,23,M,Sistemas de Informação,-1,-1080p,60,Nenhum,0,Mouse
 Player 14,4,4,33,13,9,9,0,125,0,10,0.0,2.5,Half-Life 2,SIM,Indiferente,,23,M,Sistemas de Informação,4,1080p,60,Nenhum,0,Mouse e Manete
 Player 15,1,5,18,13,5,7,0,50,0,15,0.0,0.5,Half-Life 2,NAO,Indiferente,,21,M,Sistemas de Informação,5,1080p,144,Nenhum,0,Mouse
 Player 15,2,5,26,14,6,8,0,50,0,25,0.0,0.0,Half-Life 2,NAO,Indiferente,,21,M,Sistemas de Informação,5,1080p,144,Nenhum,0,Mouse
-lucasPlayer 5,4,3,40,15,10,10,50,125,15,25,0.5,0.5,Half-Life 2,SIM,Indiferente,,20,M,Sistemas de Informação,2,1080p,75,Nenhum,0,Mouse
+Player 5,4,3,40,15,10,10,50,125,15,25,0.5,0.5,Half-Life 2,SIM,Indiferente,,20,M,Sistemas de Informação,2,1080p,75,Nenhum,0,Mouse
 Player 12,4,4,40,15,10,10,0,25,0,10,0.0,0.0,Half-Life 2,SIM,Indiferente,,29,F,Mestrado Ciências da Computação,0,-1080p,60,Nenhum,0,Nenhum
 Player 17,2,3,37,17,9,10,150,150,15,25,1.0,1.0,Half-Life 2,NAO,Indiferente,,21,M,Sistemas de Informação,8,1080p,60,Half-Life 2,-1,Mouse
 Player 17,4,4,36,17,9,9,0,50,0,10,0.0,2.0,Half-Life 2,SIM,Indiferente,17.1,21,M,Sistemas de Informação,8,1080p,60,Half-Life 2,-1,Mouse
@@ -32,7 +32,7 @@ Player 22,4,4,24,14,8,8,25,100,5,25,2.0,2.0,Spelunky,SIM,Feliz,,21,F,Ciências B
 Player 23,3,4,23,15,7,8,0,50,0,20,0.0,0.0,Spelunky,SIM,Feliz,,56,F,Sistemas de Informação,0,-1080p,60,Nenhum,0,Nenhum
 Player 24,0,3,13,17,9,9,0,25,0,25,0.0,1.5,FEAR,NAO,Triste,,24,M,Sistemas de Informação,6,1080p,60,Nenhum,0,Mouse e Celular
 Player 24,5,3,38,15,10,10,0,50,0,5,0.0,0.5,Half-Life 2,SIM,Feliz,,24,M,Sistemas de Informação,6,1080p,60,Nenhum,0,Mouse e Celular
-Player 1 neiva,6,4,27,15,8,9,50,100,0,5,0.0,0.0,Spelunky,SIM,Triste,,23,M,Sistemas de Informação,-1,-1080p,60,Nenhum,0,Mouse
+Player 1,6,4,27,15,8,9,50,100,0,5,0.0,0.0,Spelunky,SIM,Triste,,23,M,Sistemas de Informação,-1,-1080p,60,Nenhum,0,Mouse
 Player 10,3,3,39,15,10,10,50,0,20,0,3.0,0.0,Half-Life 2,NAO,Feliz,,23,M,Sistemas de Informação,0,1080p,60,Nenhum,0,Nenhum
 Player 10,4,3,39,15,10,10,25,0,10,0,3.0,0.0,Half-Life 2,SIM,Indiferente,,23,M,Sistemas de Informação,0,1080p,60,Nenhum,0,Nenhum
 Player 10,4,3,25,18,19,14,25,0,10,0,1.5,0.0,FEAR,SIM,Indiferente,,23,M,Sistemas de Informação,0,1080p,60,Nenhum,0,Nenhum
