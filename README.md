@@ -1,7 +1,8 @@
 # All data were collected in accordance with the recommendations outlined in the ITU-T P.809 document. Our focus is exclusively on the performance of cloud gaming and user Quality of Experience (QoE); aspects such as immersion and game content were not evaluated.
-# First and second datasets were collected in a wired testbed and third dataset in a wireless testbed with a smartphone as the client device. All details of both testbeds are in the articles below.
+# First and second part of the Wired datasets were collected in a wired testbed and the Mobile dataset in a wireless testbed with a smartphone as the client device. When we merged both we got the Expanded dataset. All details of both testbeds are in the articles below.
 
 >This repository contains data collected from the experiments of Daniel Henriques C. M. Soares.
+
 >These data have been used in the following studies to date(06/11/24):
 
 >Enhancing Cloud Gaming QoE Estimation by Stacking Learning - Journal of Network and Systems Management - 10.1007/s10922-024-09836-6
